@@ -4,6 +4,8 @@
 
 This is a living reference for clients and projects that require exceptional control over data location, access, encryption, logging, and operational boundaries.
 
+**GitHub:** https://github.com/deliverydriver/aws-sovereign-infrastructure
+
 ## Why This Is a Strong Differentiator
 
 Many Solutions Architects can design "secure" systems.
